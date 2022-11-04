@@ -14,19 +14,19 @@ Usage:
 - cd miniRT_bonus && make && ./webserv_bonus scenes_bonus/...
 
 ./webserv scenes/plan.rt
-![plan](images/plan.png "plan")
+![plan](img/plan.png "plan")
 
 ./webserv_bonus scenes_bonus/multi.rt
-![cone](images/cone.png "cone")
+![cone](img/cone.png "cone")
 
 ./webserv_bonus scenes_bonus/checker.rt
-![checker](images/checker.png "checker")
+![checker](img/checker.png "checker")
 
 ./webserv_bonus scenes_bonus/earth.rt
-![earth](images/earth.png "earth")
+![earth](img/earth.png "earth")
 
 ./webserv_bonus scenes_bonus/saturn.rt
-![saturn](images/saturn.png "saturn")
+![saturn](img/saturn.png "saturn")
 
 ./webserv_bonus scenes_bonus/solar_system.rt
-![solar_system](images/solar_system.png "solar_system")
+![solar_system](img/solar_system.png "solar_system")
