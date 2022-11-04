@@ -13,7 +13,7 @@ Usage:
 - cd miniRT && make && ./webserv scenes/*some_scene*
 - cd miniRT_bonus && make && ./webserv_bonus scenes_bonus/...
 
-./webserv_bonus scenes_bonus/plan.rt
+./webserv scenes/plan.rt
 ![plan](images/plan.png "plan")
 
 ./webserv_bonus scenes_bonus/multi.rt
