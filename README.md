@@ -24,20 +24,20 @@ system.
 
 ## Examples
 
-./webserv scenes/plan.rt
 ![plan](img/plan.png "plan")
+*scenes/plan.rt*
 
-./webserv_bonus scenes_bonus/multi.rt
-![cone](img/cone.png "cone")
+![cones](img/cones.png "cones")
+*scenes_bonus/multi.rt*
 
-./webserv_bonus scenes_bonus/checker.rt
 ![checker](img/checker.png "checker")
+*scenes_bonus/checker.rt*
 
-./webserv_bonus scenes_bonus/earth.rt
 ![earth](img/earth.png "earth")
+*scenes_bonus/earth.rt*
 
-./webserv_bonus scenes_bonus/saturn.rt
 ![saturn](img/saturn.png "saturn")
+*scenes_bonus/saturn.rt*
 
-./webserv_bonus scenes_bonus/solar_system.rt
 ![solar_system](img/solar_system.png "solar_system")
+*scenes_bonus/solar_system.rt*
