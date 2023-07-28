@@ -10,6 +10,8 @@ Those computer-generated images will each represent a scene, as seen from a spec
 angle and position, defined by simple geometric objects, and each with its own lighting
 system.
 
+<br/>
+
 ## Usage
 
 ### miniRT
@@ -21,6 +23,8 @@ system.
 - cd miniRT_bonus
 - make
 - ./webserv_bonus scenes_bonus/*some_scene*
+
+<br/>
 
 ## Examples
 
